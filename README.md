@@ -16,14 +16,35 @@ Table of Contents
 
 ## Story
 
+AS A user, GIVEN I want to be able to write and save notes
 
+WHEN I open the app
+
+THEN I am presesnted with previously submitted notes with their titles
+
+WHEN I click in the TITLE area
+
+THEN I can type in the title of the note to be submitted
+
+WHEN I click in the DESCRIPTION area
+
+THEN I can type in the content of the note to be submitted
+
+WHEN I click a save icon
+
+THEN the note is saved to the server and displayed in the notes list
+
+WHEN I click on the delete icon for a specific note
+
+THEN that specific note is deleted from the list
 
 ## Images
 
-
+Fig. 1: Activating Server
 
 ## Install
 
+You need to run npm install intially to ensure you have the dependencies. You also need to run npm install uuid@3.4.0, which is a package that will allow for the use of unique id's.
 
 ## Contribution
 
