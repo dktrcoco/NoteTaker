@@ -40,7 +40,14 @@ THEN that specific note is deleted from the list
 
 ## Images
 
-Fig. 1: Activating Server
+Fig. 1: App Deployed to Heroku
+![Deployed](/Deployed.PNG)
+
+Fig. 2: Notes Input
+![Notes Input](/Notes.PNG)
+
+Fig. 3: Note is Saved and Displayed
+![Note Saved and Displayed](/Saved.PNG)
 
 ## Install
 
