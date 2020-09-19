@@ -51,7 +51,7 @@ Fig. 3: Note is Saved and Displayed
 
 ## Install
 
-You need to run npm install intially to ensure you have the dependencies. You also need to run npm install uuid@3.4.0, which is a package that will allow for the use of unique id's.
+You need to run 'npm install' initially to ensure you have the dependencies. You also need to run 'npm install uuid@3.4.0', which is a package that will allow for the use of unique id's.
 
 ## Contribution
 
